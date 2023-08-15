@@ -4,6 +4,8 @@ namespace Haku
 {
     public class Player : MonoBehaviour
     {
-        int speed = 100;
+
+        bool isdead = false;
+
     }
 }

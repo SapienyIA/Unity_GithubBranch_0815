@@ -1,18 +1,10 @@
-using System.Collections;
-using System.Collections.Generic;
+﻿
 using UnityEngine;
 
-public class enemy : MonoBehaviour
+namespace B
 {
-    // Start is called before the first frame update
-    void Start()
+    public class enemy : MonoBehaviour
     {
-        
-    }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
     }
 }
